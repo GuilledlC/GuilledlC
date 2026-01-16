@@ -1,6 +1,6 @@
 ### About me
 
-I'm a Software Engineering student at the [Polytechnic University of Madrid](https://www.upm.es). I mainly code in C# and Java and I've also worked with C.
+I'm a Software Engineer. I studied at the [Polytechnic University of Madrid](https://www.upm.es). I mainly code in C# and Java and I've also worked with C, and recently I have used C++ for work-related reasons.
 
 You can reach me at guillermodelacalhacar@gmail.com
 
